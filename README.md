@@ -3,7 +3,7 @@
 # Description
 The objective of this project is to analyze bank loan applications to uncover patterns in loan issuance, repayment, and borrower behavior using an interactive dashboard. The dashboard is designed to help financial institutions understand key metrics related to loan performance, borrower profiles, and application trends. By leveraging this data, banks can make informed decisions to improve credit policies, minimize default risk, and enhance customer targeting strategies.
 # Key Insights from the Dashboard:
-## Loan Distribution & Performance:
+### Loan Distribution & Performance:
 A total of 14.4k loan applications were processed.
 84% of loans (12.1k) are categorized as Good Loans, receiving $167.2M.
 16% (2.3k) are Bad Loans, with only $16.2M received out of $28.2M funded.
