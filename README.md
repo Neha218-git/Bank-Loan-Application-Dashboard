@@ -37,4 +37,6 @@ Very low demand seen in Educational, Renewable Energy, and Wedding purposes.
 Loans that were charged off had the highest interest rate (14%).
 
 Fully paid loans had lower interest rates (~12%), suggesting a link between lower interest and repayment success.
+# Conclusion:
+The dashboard reveals that most loans are performing well, with high volumes of good loans and a consistent upward trend in applications. Employment history and loan purpose are strong indicators of loan performance. Interest rate settings may influence repayment behavior, as charged-off loans tend to have higher interest rates.
 
