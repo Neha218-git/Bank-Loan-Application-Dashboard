@@ -2,7 +2,7 @@
 
 # Description
 The objective of this project is to analyze bank loan applications to uncover patterns in loan issuance, repayment, and borrower behavior using an interactive dashboard. The dashboard is designed to help financial institutions understand key metrics related to loan performance, borrower profiles, and application trends. By leveraging this data, banks can make informed decisions to improve credit policies, minimize default risk, and enhance customer targeting strategies.
-# Key Insights from the Dashboard:
+# Key Insights from the Dashboard
 #### Loan Distribution & Performance:
 A total of 14.4k loan applications were processed.
 
@@ -37,6 +37,6 @@ Very low demand seen in Educational, Renewable Energy, and Wedding purposes.
 Loans that were charged off had the highest interest rate (14%).
 
 Fully paid loans had lower interest rates (~12%), suggesting a link between lower interest and repayment success.
-# Conclusion:
+# Conclusion
 The dashboard reveals that most loans are performing well, with high volumes of good loans and a consistent upward trend in applications. Employment history and loan purpose are strong indicators of loan performance. Interest rate settings may influence repayment behavior, as charged-off loans tend to have higher interest rates.
 
